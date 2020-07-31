@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593621711 source:c:\users\mady\desktop\c++\codewar\row_weight\main.cpp
+	<vector>
+	<utility>
+	<iostream>
+

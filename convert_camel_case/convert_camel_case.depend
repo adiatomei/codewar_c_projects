@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592758120 source:c:\users\mady\desktop\c++\codewar\convert_camel_case\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+

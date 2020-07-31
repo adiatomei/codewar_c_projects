@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595004640 source:c:\users\mady\desktop\c++\codewar\snakes_latters\main.cpp
+	<iostream>
+	<map>
+	<vector>
+

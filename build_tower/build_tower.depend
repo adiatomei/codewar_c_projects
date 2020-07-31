@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594129090 source:c:\users\mady\desktop\c++\codewar\build_tower\main.cpp
+	<iostream>
+	<vector>
+	<string>
+

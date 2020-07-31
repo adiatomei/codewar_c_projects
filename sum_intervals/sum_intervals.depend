@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594320565 source:c:\users\mady\desktop\c++\codewar\sum_intervals\main.cpp
+	<iostream>
+	<vector>
+	<utility>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593619880 source:c:\users\mady\desktop\c++\codewar\double_cola\main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+

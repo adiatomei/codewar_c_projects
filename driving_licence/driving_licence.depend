@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1595175373 source:c:\users\mady\desktop\c++\codewar\driving_licence\main.cpp
+	<iostream>
+	<array>
+	<map>
+	<utility>
+

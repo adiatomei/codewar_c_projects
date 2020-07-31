@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594144908 source:c:\users\mady\desktop\c++\codewar\consonant_value\main.cpp
+	<iostream>
+	<map>
+	<vector>
+
